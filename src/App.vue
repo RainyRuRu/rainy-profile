@@ -40,10 +40,12 @@ export default {
 
 .light {
   background-image: url(./assets/light-mode.jpg);
+  background-color: #0097e0;
 }
 
 .rainy,
 .dark {
   background-image: url(./assets/dark-mode.jpg);
+  background-color: #304050;
 }
 </style>
