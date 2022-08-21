@@ -1,10 +1,10 @@
 <template>
-  <div id="experinece" class="pt-24 pb-12">
+  <div id="experience" class="pt-24 pb-12">
     <div class="relative">
       <div class="absolute h-full w-full bottom-0 left-0 z-0 bg-white py-[50px] 2xl:py-[50px] 2xl:w-[90%] 2xl:rounded-tr-full 2xl:rounded-br-full"></div>
       <div class="container mx-auto">
         <div class="flex flex-row flex-wrap items-center gap-7 xl:gap-20 z-10 relative py-12 px-[30px] sm:px-0">
-          <div class="block-title text-dark">Experinece</div>
+          <div class="block-title text-dark">Experience</div>
           <img class="hidden xl:block" src="../assets/experience.svg" />
           <div class="flex flex-col justify-center items-start py-5 gap-5">
             <img src="../assets/kkbox-logo.svg" width="250"/>

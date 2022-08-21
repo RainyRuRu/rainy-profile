@@ -1,7 +1,7 @@
 <script setup>
 import Community from './components/Community.vue'
 import Education from './components/Education.vue'
-import Experinece from './components/Experinece.vue'
+import Experience from './components/Experience.vue'
 import MyFooter from './components/Footer.vue'
 import MyHeader from './components/Header.vue'
 import MyNav from './components/Nav.vue'
@@ -26,7 +26,7 @@ export default {
     <MyNav />
     <MyHeader />
     <Skill />
-    <Experinece />
+    <Experience />
     <Community />
     <Education />
     <MyFooter />
