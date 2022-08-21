@@ -11,7 +11,7 @@
           <div class="text-dark block-content break-words">論文發表 @ 2015 IEEE 4th Global Conference on Consumer Electronics (GCCE)</div>
           <a target="_blank" href="https://ieeexplore.ieee.org/document/7398726" class="button grid grid-cols-[40px_auto] justify-center items-center p-[15px] bg-dark rounded-[4px] 2xl:w-9/12">
             <div class="link-image"></div>
-            <div class="text-white break-words w-full block-content text-left uppercase">A comparison of Python and Java capabilities on somatosensory game for cloud-based rehabilitation system</div>
+            <div class="text-white break-words w-full block-content text-left">A comparison of Python and Java capabilities on somatosensory game for cloud-based rehabilitation system</div>
           </a>
         </div>
         <img class="image absolute top-[-40px] right-[50px] z-10 hidden xl:block" src="../assets/education.svg" />
