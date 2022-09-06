@@ -9,9 +9,9 @@ export default {
     return {
       skills: [
         { title: 'Frontend', content: "HTML CSS JavaScript<br />Vue JQuery Axios" , image: "frontend"},
-        { title: 'Backend', content: "PHP Laravel Slim<br/>SQL Redis memcached", image: "backend" },
-        { title: 'Cloud Services', content: "AWS S3<br/>AWS Athena", image:"cloud" },
-        { title: 'Tools', content: "GIT Docker CI/CD<br/>Figma Trello JIRA", image: "tool" }
+        { title: 'Backend', content: "Python PHP Laravel Slim<br/>SQL Redis memcached", image: "backend" },
+        { title: 'Cloud Service', content: "AWS GCP Azure<br/>Docker + k8s / Nomad", image:"cloud" },
+        { title: 'Tools', content: "GIT CI/CD Grafana Rollbar<br/>Figma Trello JIRA", image: "tool" }
       ]
     }
   }
